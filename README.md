@@ -33,13 +33,13 @@
 
 ## 🚀 Projetos em Destaque
 
-- 🔧 [**Logística com IA**](https://github.com/HnerikeNato/case-logistica-ia)  
+- 🔧 [**Logística com IA**](https://github.com/Henrique-Torquato/case-logistica-ia)  
   Automação logística com Inteligência Artificial, Roteirização com OR-Tools, IA preditiva e visualizações com Plotly.
 
-- 📊 [**Dashboard de Pricing**](https://github.com/HnerikeNato/seu-projeto)  
+- 📊 [**Dashboard de Pricing**](https://github.com/Henrique-Torquato/seu-projeto)  
   Painel de precificação para análise de elasticidade, margem e rentabilidade com filtros inteligentes.
 
-- 📈 [**Modelagem de Elasticidade de Preço**](https://github.com/HnerikeNato/seu-projeto)  
+- 📈 [**Modelagem de Elasticidade de Preço**](https://github.com/Henrique-Torquatoo/seu-projeto)  
   Estudo com regressões e segmentações para simular impacto de variações de preço no volume de vendas.
 
 ---
