@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="30"> Olá! Eu sou **Paulo Henrique**  
+<h1><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="30"> Olá! Eu sou Paulo Henrique</h1>
 🎯 Analista de Planejamento Comercial & 🚀 Futuro Engenheiro da Computação
 
 ---
