@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="30"> Olá! Eu sou Paulo Henrique</h1>
+<h1><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt1MzV0M21odjFoeHd1cnI5YWhpc28wejM3eWxkMjRrMG93M3JsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/93cVlROfy0PIJaBABa/giphy.gif" width="30"> Olá! Eu sou Paulo Henrique</h1>
 🎯 Analista de Planejamento Comercial & 🚀 Futuro Engenheiro da Computação
 
 ---
@@ -23,26 +23,34 @@
 
 ---
 
-## 📌 Certificações
+## 📌 Certificações em Destaque
 
-[![Power BI](https://img.shields.io/badge/-Power%20BI-blue?style=for-the-badge&logo=microsoft)](https://example.com)  
-[![Revenue Management](https://img.shields.io/badge/-Revenue%20Management-purple?style=for-the-badge&logo=analytics)](https://example.com)  
-[![Formação do Preço de Venda](https://img.shields.io/badge/-Preço%20de%20Venda-orange?style=for-the-badge&logo=academy)](https://example.com)
+[![Power BI para Negócios](https://img.shields.io/badge/-Power%20BI%20para%20Neg%C3%B3cios-blue?style=for-the-badge&logo=microsoft )](https://example.com )  
+**Xperiun | Data Analytics • set/2023**  
+Análise de dados · Microsoft Power BI · Dashboards · Interpretação de dados  
+
+[![Formação do Preço de Venda](https://img.shields.io/badge/-Forma%C3%A7%C3%A3o%20do%20Pre%C3%A7o%20de%20Venda-orange?style=for-the-badge&logo=academy )](https://example.com )  
+**Sebrae • ago/2023**  
+Análise de dados · Vendas · Habilidade numérica · Estratégia  
+
+[![Excel Avançado + VBA](https://img.shields.io/badge/-Excel%20Avan%C3%A7ado%20+%20VBA-green?style=for-the-badge&logo=microsoft-excel )](https://example.com )  
+**Udemy • jun/2023**  
+Microsoft Excel · Dashboards · Insights de negócios · Interpretação de dados  
+
+[![Excel Básico](https://img.shields.io/badge/-Excel%20B%C3%A1sico-yellow?style=for-the-badge&logo=microsoft-excel )](https://example.com )  
+**Microsoft • set/2022**  
+Microsoft Excel · Dashboards  
+
+[![HTML, CSS e JavaScript](https://img.shields.io/badge/-HTML%2C%20CSS%20e%20JavaScript-purple?style=for-the-badge&logo=html5 )](https://example.com )  
+**Fundação Bradesco • ago/2024**  
+CSS · HTML5 · JavaScript · Desenvolvimento web · Interpretação de dados  
+
+[![Machine Learning e Data Science com Python](https://img.shields.io/badge/-Forma%C3%A7%C3%A3o%20do%20Pre%C3%A7o%20de%20Venda-orange?style=for-the-badge&logo=academy )](https://example.com )    
+**Udemy • Dez/2024**   
+📌 Python · Machine Learning · Data Science
 
 ---
 
-## 🚀 Projetos em Destaque
-
-- 🔧 [**Logística com IA**](https://github.com/Henrique-Torquato/case-logistica-ia)  
-  Automação logística com Inteligência Artificial, Roteirização com OR-Tools, IA preditiva e visualizações com Plotly.
-
-- 📊 [**Dashboard de Pricing**](https://github.com/Henrique-Torquato/seu-projeto)  
-  Painel de precificação para análise de elasticidade, margem e rentabilidade com filtros inteligentes.
-
-- 📈 [**Modelagem de Elasticidade de Preço**](https://github.com/Henrique-Torquatoo/seu-projeto)  
-  Estudo com regressões e segmentações para simular impacto de variações de preço no volume de vendas.
-
----
 
 ## 📊 GitHub Stats
 
