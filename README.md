@@ -64,7 +64,7 @@ CSS · HTML5 · JavaScript · Desenvolvimento web · Interpretação de dados
 ## 🌍 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hhenrique-torquato/)  
-[![Email](https://img.shields.io/badge/-E--mail-red?style=for-the-badge&logo=gmail)](mailto:hhenrique.torquato@gmail.com)
+[![Email](https://img.shields.io/badge/-E--mail-white?style=for-the-badge&logo=gmail)](mailto:hhenrique.torquato@gmail.com)
 
 ---
 
